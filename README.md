@@ -1,7 +1,7 @@
 ## *Hi, I'm Arokia Martin N 👋*
 <img align="right" width="320" height="280" src="https://cdn.pixabay.com/animation/2024/04/24/06/51/06-51-07-721_512.gif" />
 
-- *🎓 Undergrad in Computer Science & Business Systems @ Chennai Institute of Technology* <br>
+- *🎓 Undergrad in Computer Science and Business Systems @ Chennai Institute of Technology* <br>
 *[CGPA: 9.06]*                 
 - *📄 Here's Link to My [Resume](https://drive.google.com/file/d/1qy8LGZLD3zzyVRSPkyMn6lgwSNuHvH49/view?usp=drive_link)!*
 - *Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR).*
