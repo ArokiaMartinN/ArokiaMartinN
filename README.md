@@ -3,7 +3,7 @@
 
 - *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology* <br>
 *[CGPA: 9.06]*                 
-- *📄 Here's Link to My [Resumea](https://drive.google.com/drive/folders/1mD94nZ_zt1oJR_uYyrAEbnc891kGanxA?usp=sharing)!*
+- *📄 Here's Link to My [Resume'a](https://drive.google.com/drive/folders/1mD94nZ_zt1oJR_uYyrAEbnc891kGanxA?usp=sharing)!*
 - *Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR).*
 - *☁️ AWS Certified Cloud Practicioner, NPTEL: DBMS & Cloud Computing Certified!*
 - *Always exploring opportunities in Product Dev, Research and Hackathons.*
