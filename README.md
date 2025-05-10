@@ -7,7 +7,7 @@
 📫 [Email Me](mailto:prajinmartin@gmail.com) | 🌐 [Portfolio Coming Soon]
 
 ---
-
+<img align="right" width="370" height="280" src="https://cdn.pixabay.com/animation/2024/04/24/06/51/06-51-07-721_512.gif" />
 
 ### About Me
 
