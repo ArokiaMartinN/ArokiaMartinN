@@ -2,8 +2,6 @@
 <img align="right" width="320" height="280" src="https://cdn.pixabay.com/animation/2024/04/24/06/51/06-51-07-721_512.gif" />
 
 
-<br>
-
 - *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology* <br>
 *[CGPA: 9.06]*                 
 - *📄 Here's Link to My [Resume'a](https://drive.google.com/drive/folders/1mD94nZ_zt1oJR_uYyrAEbnc891kGanxA?usp=sharing)!*
