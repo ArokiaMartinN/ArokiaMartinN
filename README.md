@@ -1,20 +1,20 @@
 ## 👋 Hi, I'm Arokia Martin N
 
 🎓 B.Tech – Computer Science & Business Systems (2023–2027)  
+ Chennai Instiute of Technology
 💡 AI Researcher | Full-Stack Developer | IoT & Cloud Enthusiast  
 🧪 Interned @ Cisco, Google AI-ML, and CAIR | 🧠 CGPA: 9.06  
 📫 [Email Me](mailto:prajinmartin@gmail.com) | 🌐 [Portfolio Coming Soon]
 
 ---
 
-<img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 
-### 🔍 About Me
+### About Me
 
-- 🔭 I'm passionate about developing impactful AI & ML applications.
-- 🌱 Currently learning Advanced NLP, Federated Learning, and Full Stack APIs.
-- 🛠️ Building cool projects like EduElevate, HydroSpatial, and SHEMS.
-- 📢 Always exploring opportunities in Research, Product Dev, and Hackathons.
+- I'm passionate about developing impactful AI & ML applications.
+- Currently learning Advanced NLP, Federated Learning, and Full Stack APIs.
+- Building projects like EduElevate, HydroSpatial, and SHEMS.
+- Always exploring opportunities in Research, Product Dev, and Hackathons.
 
 ---
 
