@@ -35,6 +35,21 @@
 #### *IDE and Tools I Use*
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/> 
 
+#### *Projects*
+
+- *[Shoe Kadai](https://shoekadai-60034642328.development.catalystserverless.in/app/login.html)* - *Front-end E-commerce platform using React, Tailwind CSS, Zoho Catalyst.*  
+- *[EduElevate](https://github.com/ArokiaMartinN/Foss_Hack_2025-EduElevate)* - *AI-powered academic tracker using React Native, ExpressJS, MongoDB.*  
+- *[HydroSpatial](https://github.com/ArokiaMartinN/HydroSpatial)* - *Smart India Hackathon 2024 project for water data visualization & chatbot using React, Django, HTML.*
+  
+#### *Experience Highlights*
+
+- *[Research Intern – CAIR, CIT](https://www.linkedin.com/posts/arokia-martin-n-548692290_iot-smartenergy-iotapplications-activity-7184619419205795840-6IAv)* : *Published an article on *IoT-based Smart Home Energy Management System* using LSTM.* 
+- *[Cisco Networking Intern – Cisco Networking Academy](https://www.linkedin.com/posts/arokia-martin-n-548692290_cisco-cybersecurity-ethicalhacking-activity-7181738949279277056-QWjS)* : *Created *Netpath Illuminator* – real-time packet flow visualizer using Python & Matplotlib.*
+- *[Google Intern – Eduskills Foundation](https://www.linkedin.com/posts/arokia-martin-n-548692290_google-cloud-ai-ml-activity-7183185604465072128-0rWP)* : *Completed *AI-ML Virtual Internship* using TensorFlow and deep learning; built image classification models.*
+- *[Android Developer Intern – Eduskills Foundation](https://www.linkedin.com/posts/arokia-martin-n-548692290_androiddevelopment-kotlin-uiux-activity-7188673012801095680-W8aa)* : *Built Kotlin-based Android apps focusing on UI/UX and modern development practices.*
+
+
+
 #### *LeetCode Stats:*
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ArokiaMartin?ext=contest&theme=dark)](https://leetcode.com/ArokiaMartin)
 
