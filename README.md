@@ -5,102 +5,40 @@
 *[CGPA: 9.06]*                 
 - *📄 Here's Link to My [Resume](https://drive.google.com/file/d/1qy8LGZLD3zzyVRSPkyMn6lgwSNuHvH49/view?usp=drive_link)!*
 - *Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR)*
+- *☁️ AWS Certified Cloud Practicioner, NPTEL: DBMS & Cloud Computing Certified!*
 - *Always exploring opportunities in Product Dev, Research and Hackathons.*
-- *🌱 I know a little Japanese!*
+- *🌱 I knew a little Japanese!*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arokia_Martin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arokia-martin-n-548692290/) 
+
+#### *Profiles:*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arokia_Martin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arokia-martin-n-548692290/)
+[![Codolio](https://img.shields.io/badge/Codolio-Arokia%20MartinN-blueviolet?style=for-the-badge&logo=codersrank)](https://codolio.com/profile/ArokiaMartinN)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ArokiaMartin-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/ArokiaMartin/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1411%20(2★)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/arokiamartinn)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1059%20(Newbie)-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ArokiaMartinN)
 
 
- What I'm Currently Exploring!
- 
-- *Passionate about developing impactful AI & ML applications.
-- Currently learning Advanced NLP, Federated Learning, and Full Stack APIs.
-- Building projects like **EduElevate**, **HydroSpatial**, and **SHEMS**.
-- Always exploring opportunities in Research, Product Dev, and Hackathons.
+
+#### *What I'm Currently Exploring!*
+
+ - *Currently learning Networking Systems, Cloud Computing and Full Stack APIs.*
+- *Building projects like **EduElevate**, **HydroSpatial** and **SHEMS**.*
+- *Passionate about developing impactful AI & ML applications.*
 
 
 
----
-
-### Experience Highlights
-
-**Research Intern – CAIR, CIT**  
-*Nov 2024 – Dec 2024*  
-- Published an article on **IoT-based Smart Home Energy Management System** using LSTM.
-- Developed an ensemble model for **Space Debris Collision Prediction** (88.31% accuracy).
-
-**Cisco Networking Intern – Cisco Academy**  
-*May 2024 – Jul 2024*  
-- Hands-on in routing, network design & simulations.
-- Created **Netpath Illuminator** – real-time packet flow visualizer (Python + Matplotlib).
-
-**AI-ML Intern – Google Eduskills**  
-*Jul 2024 – Sep 2024*  
-- Worked on **image/product detection**, **model fine-tuning**, and **TF Lite optimization**.
-- Built Kotlin-based Android ML apps for edge deployment.
-
----
-
-### Notable Projects
-
-**[Shoe Kadai](https://shoekadai-60034642328.development.catalystserverless.in/app/login.html)**  
-*React, Tailwind CSS, Zoho Catalyst*  
-- Front-end E-commerce platform for footwear, hosted with responsive UI.
-
-**[EduElevate](https://github.com/ArokiaMartinN/Foss_Hack_2025-EduElevate)**  
-*React Native, ExpressJS, MongoDB*  
-- AI-powered academic tracker with real-time placement updates and anonymous feedback system.
-
-**[HydroSpatial](https://github.com/ArokiaMartinN/HydroSpatial)**  
-*React, Django, HTML*  
-- Smart India Hackathon 2024 solution for spatial water data visualization & chatbot (Gemini AI).
-
----
-
-### Tech Stack
-
-**Languages:** Python, Java, C++, JavaScript  
-**Web Dev:** HTML, CSS, Tailwind CSS, React, Next.js, Node.js, Express.js, Django  
-**Mobile Dev:** React Native, Kotlin (TF Lite)  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, Figma, Zoho Catalyst, Netlify
-
----
-
-### Certifications & Coding Profiles
-
-- 🟨 AWS Certified Cloud Practitioner – *Score: 793*
-- 🟪 NPTEL – DBMS (Elite), Cloud Computing (Elite)
-- 🟩 Cisco – C Programming, Cybersecurity Essentials
-- 💻 LeetCode – 500+ Problems Solved | Rating: 1337  
-  [![LeetCode](https://img.shields.io/badge/LeetCode-ArokiaMartin-orange?style=flat-square)](https://leetcode.com/ArokiaMartin/)  
-- 🥈 CodeChef – 1411 (2★)  
-  [CodeChef Profile](https://www.codechef.com/users/arokiamartinn)  
-- ⚪ Codeforces – 1059 (Newbie)  
-  [Codeforces Profile](https://codeforces.com/profile/ArokiaMartinN)  
-- 🟨 HackerRank – Python & Java (1★)  
-  [HackerRank Profile](https://www.hackerrank.com/profile/ArokiaMartinN)
-
----
-
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+#### *I code in*
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
 
-### IDE and Tools I Use
+#### *IDE and Tools I Use*
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 
----
 
-### Let’s Connect
-
----
-
-### GitHub Stats
+#### *GitHub Stats*
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ArokiaMartin?ext=contest&theme=dark)](https://leetcode.com/ArokiaMartin)
 
+#### *Leetcode Stats*
 ![Arokia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArokiaMartinN&show_icons=true&theme=radical)
 [![Arokia's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ArokiaMartinN&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
