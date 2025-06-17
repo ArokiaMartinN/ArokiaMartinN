@@ -18,12 +18,13 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-ArokiaMartin-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/ArokiaMartin/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1411%20(2★)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/arokiamartinn)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1059%20(Newbie)-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ArokiaMartinN)
+[![Skillrack](https://img.shields.io/badge/Skillrack-150%2B%20Problems%20%7C%2020%2B%20Tests-blue?style=for-the-badge&logo=skillshare)](https://www.skillrack.com/faces/resume.xhtml?id=436908&key=68c863557f2587fdd8cc78d90ff12ba68c410de1)
 
 
 
 #### *What I'm Currently Exploring!*
 
- - *Currently learning Networking Systems, Cloud Computing and Full Stack APIs.*
+ - *Currently learning Networking & Linux Systems, Cloud Computing and Full Stack APIs.*
 - *Building projects like **EduElevate**, **HydroSpatial** and **SHEMS**.*
 - *Passionate about developing impactful AI & ML applications.*
 
@@ -31,10 +32,10 @@
 
 #### *I code in*
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/> 
 
 #### *IDE and Tools I Use*
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/minio.svg" alt="MinIO"/> <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" alt="NGINX"/>   <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg" alt="Ubuntu"/>          <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fedora.svg" alt="Fedora"/>         <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>    <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/> 
 
 #### *Experience Highlights:*
 
