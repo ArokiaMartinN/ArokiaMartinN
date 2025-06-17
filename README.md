@@ -39,6 +39,7 @@
 
 #### *Experience Highlights:*
 
+- *[**Cloud Network Engineer – Symbiotic Infotech Pvt. Ltd.** 🔗](https://www.linkedin.com/posts/arokia-martin-n-548692290_cloudcomputing-networking-aws-activity-7334227154827694080-xroY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEaUcYgBNa8ZVtUKFojbxjJyIb_bm-uPlRM)* – *Configured Linux servers, deployed AWS VPC, EC2, Load Balancers, and implemented cloud networking solutions to build scalable cloud environments.*
 - *[**Research Intern – CAIR, CIT** 🔗](https://www.linkedin.com/posts/arokia-martin-n-548692290_researchpresentation-iot-smarthomes-activity-7321756380594372610-Dm3F)* – *Published an article on IoT-based Smart Home Energy Management System using LSTM.*  
 - *[**Cisco Networking Intern – Cisco Networking Academy (Virtual)** 🔗](https://www.linkedin.com/posts/arokia-martin-n-548692290_cisconetworkingacademy-aicte-networkingessentials-activity-7245797559581990912-TxJx)* – *Created Netpath Illuminator – real-time packet flow visualizer using Python & Matplotlib.*  
 - *[**Google AI-ML Developer Intern – Eduskills Foundation (Virtual)** 🔗](https://www.linkedin.com/posts/arokia-martin-n-548692290_aiml-eduskills-googlefordevelopers-activity-7243188346892517376-FPPe)* – *Completed AI-ML Virtual Internship using TensorFlow and deep learning; built image classification models.*  
