@@ -1,5 +1,5 @@
 ## *Hi, I'm Arokia Martin N 👋*
-<img align="right" width="320" height="280" src="https://cdn.pixabay.com/animation/2024/04/24/06/51/06-51-07-721_512.gif" />
+<img align="right" width="320" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 
 
 - *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology* <br>
@@ -20,8 +20,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-ArokiaMartin-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/ArokiaMartin/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1411%20(2★)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/arokiamartinn)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1059%20(Newbie)-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ArokiaMartinN)
-[![Skillrack](https://img.shields.io/badge/Skillrack-150%2B%20Problems%20%7C%2020%2B%20Tests-blue?style=for-the-badge&logo=skillshare)](https://www.skillrack.com/faces/resume.xhtml?id=436908&key=68c863557f2587fdd8cc78d90ff12ba68c410de1)
-
 
 
 #### *What I'm Currently Exploring!*
@@ -31,14 +29,14 @@
 - *Passionate about developing impactful AI & ML applications.*
 
 
-
 #### *I code in*
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+
 
 #### *IDE and Tools I Use*
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/minio.svg" alt="MinIO"/> <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" alt="NGINX"/>  <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg" alt="Ubuntu"/>          <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fedora.svg" alt="Fedora"/> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="50">
   
-  <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/> 
+ <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/> 
 
 
 #### *LeetCode Stats:*
