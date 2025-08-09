@@ -26,7 +26,7 @@
 #### *What I'm Currently Exploring!*
 
  - *Currently learning AWS Cloud, AI, Networking, Linux Systems and MERN Stack & React Native APIs.*
-- *Building projects like **Inter-VLAN Routing System**, **Walmart SuperStore**, **HydroSpatial**.*
+- *Building projects like **Inter-VLAN Routing System**, **HydroSpatial**, **Walmart SuperStore**.*
 - *On the Learning path for Earning AWS Certified Solutions Architect - Associate.*
 
 
