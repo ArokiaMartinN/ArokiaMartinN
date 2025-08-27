@@ -1,9 +1,10 @@
 ## *Hi, I'm Arokia Martin N 👋*
 
-<img align="right" width="320" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
+<img align="right" width="320" height="280" 
+     src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" 
+     style="margin-left: 20px; margin-bottom: 10px;" />
 
-- *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology* <br>
-*[CGPA: 9.06]*                 
+- *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology* *[CGPA: 9.06]*                 
 - *📄 Here's Link to My [Resume'a](https://drive.google.com/drive/folders/1K7Sn2uwfSh-bZ93ONYRAjzxcDzR00fxt?usp=sharing)!*
 - *Ex - Cloud Network Engineer Intern @ Symbiotic Infotech Pvt. Ltd.*
 - *IEEE ICDSBS 2025 Published Author,  [Published Article Link](https://ieeexplore.ieee.org/document/11031693)!*
