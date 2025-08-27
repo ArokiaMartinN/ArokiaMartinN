@@ -1,9 +1,7 @@
 ## *Hi, I'm Arokia Martin N 👋*
 
-<div align="right">
-  <img width="320" height="280" 
-       src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-</div>
+<img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" 
+     width="320" height="280" style="float: right; margin-left: 20px; margin-bottom: 10px;">
 
 
 - *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology* *[CGPA: 9.06]*                 
