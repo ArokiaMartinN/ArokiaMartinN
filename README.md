@@ -18,7 +18,7 @@
 
 [![Codolio](https://img.shields.io/badge/Codolio-Arokia%20Martin%20N-blueviolet?style=for-the-badge&logo=codersrank)](https://codolio.com/profile/ArokiaMartinN)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ArokiaMartin-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/ArokiaMartin/)<br>
-[![CodeChef](https://img.shields.io/badge/CodeChef-1411%20(2★)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/arokiamartinn)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1411%20(3★)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/arokiamartinn)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1059%20(Newbie)-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ArokiaMartinN)
 
 
