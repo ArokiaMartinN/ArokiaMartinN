@@ -6,7 +6,7 @@
 - *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology* <br>
 *[CGPA: 8.80]*                
 - *📄 Here's Link to My [Resume'a](https://drive.google.com/drive/folders/1K7Sn2uwfSh-bZ93ONYRAjzxcDzR00fxt?usp=sharing)!*
-- *Ex - SDE Intern: Agentic AI @ Ai-Work*
+- *Ex - SDE Intern: Agentic AI @ Ai Work*
 - *Ex - Cloud Network Engineer Intern @ Symbiotic Infotech Pvt. Ltd.*
 - *IEEE ICDSBS 2025 Published Author,  [Published Article Link](https://ieeexplore.ieee.org/document/11031693)!*
 - *Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR), Chennai Institute of Technology.*
