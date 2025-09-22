@@ -10,7 +10,7 @@
 - *Ex - Cloud Network Engineer Intern @ Symbiotic Infotech Pvt. Ltd.*
 - *IEEE ICDSBS 2025 Published Author,  [Published Article Link](https://ieeexplore.ieee.org/document/11031693)!*
 - *Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR), Chennai Institute of Technology.*
-- *2X National Level Hackathon Finalist*
+- *2X National Level Hackathon Finalist.*
 - *☁️ [AWS Certified Cloud Practicioner](https://drive.google.com/file/d/1gGVDQ9FwfQPsqE4rJudJ3ISmzmCs5m7G/view?usp=drive_link) , NPTEL: DBMS & Cloud Computing Certified!*
 - *🌱 I knew a little Japanese!*
   
