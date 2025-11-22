@@ -31,7 +31,12 @@
  - *Currently learning AWS Cloud, AI, Networking, Linux Systems and MERN Stack & React Native APIs.*
 - *Building projects like **Inter-VLAN Routing System**, **HydroSpatial**, **Walmart SuperStore**.*
 - *On the Learning path for Earning AWS Certified Solutions Architect - Associate.*
+  
+#### *Projects*
 
+- ***[Inter-VLAN Routing System](https://github.com/ArokiaMartinN/Inter-VLAN-Routing-System):** A Cisco Packet Tracer-based network simulation demonstrating VLAN configuration, router-on-a-stick inter-VLAN routing, and automated DHCP setup across multiple switches.*
+- ***[HydroSpatial](http://hydrospatial.s3-website.ap-south-1.amazonaws.com/):** An AI-powered groundwater information system built using React, Django, and Gemini API, deployed fully on AWS using CodePipeline, CodeBuild, S3, and EC2.*
+- ***[Walmart SuperStore](https://github.com/ArokiaMartinN/Walmart-SuperStore):** A MERN Stack analytics dashboard visualizing Walmart sales performance using MongoDB, Express.js, React, and Node.js with interactive charts and clean UI.*
 
 #### *I code in*
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
