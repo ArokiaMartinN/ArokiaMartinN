@@ -4,7 +4,7 @@
 
 
 - *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology* <br>
-*[CGPA: 8.80]*                
+*[CGPA: 8.72]*                
 - *📄 Here's Link to My [Resume'a](https://drive.google.com/drive/folders/1K7Sn2uwfSh-bZ93ONYRAjzxcDzR00fxt?usp=sharing)!*
 - *☁️ 2X AWS Certified:*
     - *[AWS Certified Solutions Architect - Associate](https://drive.google.com/file/d/1v3D1rSDBZlXn77xMnO_HdcJFCTAThE-j/view?usp=sharing)!*
