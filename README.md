@@ -9,6 +9,7 @@
 - *☁️ 2X AWS Certified:*
     - *[AWS Certified Solutions Architect - Associate](https://drive.google.com/file/d/1v3D1rSDBZlXn77xMnO_HdcJFCTAThE-j/view?usp=sharing)!*
     - *[AWS Certified Cloud Practicioner](https://drive.google.com/file/d/1gGVDQ9FwfQPsqE4rJudJ3ISmzmCs5m7G/view?usp=drive_link)!*
+- *TN-Skills State Level Cloud Computing Winner & representing Tamil Nadu in IndiaSkills Regional Level*
 - *Ex - SDE Intern: Agentic AI @ Ai Work.*
 - *Ex - Cloud Network Engineer Intern @ Symbiotic Infotech Pvt. Ltd.*
 - *IEEE ICDSBS 2025 Published Author,  [Published Article Link](https://ieeexplore.ieee.org/document/11031693)!*
