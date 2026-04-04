@@ -56,5 +56,4 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ArokiaMartin?ext=contest&theme=dark)](https://leetcode.com/ArokiaMartin)
 
 #### *GitHub Stats:*
-![Arokia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArokiaMartinN&show_icons=true&theme=radical)
 [![Arokia's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ArokiaMartinN&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
