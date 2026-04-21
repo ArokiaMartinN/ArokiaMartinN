@@ -52,6 +52,7 @@
     <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
   </span>
 </p>
 
@@ -59,16 +60,16 @@
 <p align="left">
   <span style="white-space: nowrap;">
     <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     <img height="50" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
     <img height="50" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"/>
-    <img height="50" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/minio.svg"/>
     <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg"/>
-    <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>
-    <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fedora.svg"/>
     <img height="50" src="https://img.icons8.com/color/48/notion--v1.png"/>
-    <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-    <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
   </span>
 </p> 
 
