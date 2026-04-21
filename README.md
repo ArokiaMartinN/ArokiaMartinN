@@ -22,18 +22,23 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arokia%20Martin%20N-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arokia-martin-n-548692290/)
 
 #### *Coding Profiles:*
-
 [![Codolio](https://img.shields.io/badge/Codolio-Arokia%20Martin%20N-blueviolet?style=for-the-badge&logo=codersrank)](https://codolio.com/profile/ArokiaMartinN)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ArokiaMartin-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/ArokiaMartin/)<br>
 [![CodeChef](https://img.shields.io/badge/CodeChef-1411%20(3★)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/arokiamartinn)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1059%20(Newbie)-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ArokiaMartinN)
 
+#### *AWS Certification Badges:*
+<p align="left">
+  <img height="120" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+  <img height="120" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
+</p>
+
 
 #### *What I'm Currently Exploring!*
 
- - *Currently learning AWS Cloud, AI, Networking, Linux Systems and MERN Stack & React Native APIs.*
+ - *Currently learning AWS Cloud, AI, Networking, Linux Systems and MERN Stack & FASTAPI.*
 - *Building projects like **Inter-VLAN Routing System**, **HydroSpatial**, **Walmart SuperStore**.*
-- *On the Learning path for Earning AWS Certified Solutions Architect - Associate.*
+- *Continuously learning and applying real-world cloud architecture principles to build production-ready systems.*
   
 #### *Projects*
 
@@ -56,7 +61,7 @@
   </span>
 </p>
 
-#### *IDE and Tools I Use*
+#### *Tools & Platforms I Use*
 <p align="left">
   <span style="white-space: nowrap;">
     <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
@@ -67,11 +72,18 @@
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/minio.svg"/>
-    <img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg"/>
-    <img height="50" src="https://img.icons8.com/color/48/notion--v1.png"/>
   </span>
 </p> 
+
+#### *DataBases*
+<p align="left">
+  <span style="white-space: nowrap;">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg"/>
+  </span>
+</p>
 
 
 #### *LeetCode Stats:*
