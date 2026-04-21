@@ -40,7 +40,7 @@
 - *Building projects like **Inter-VLAN Routing System**, **HydroSpatial**, **Walmart SuperStore**.*
 - *Continuously learning and applying real-world cloud architecture principles to build production-ready systems.*
   
-#### *Projects*
+#### *Projects:*
 
 - ***[Inter-VLAN Routing System](https://github.com/ArokiaMartinN/Inter-VLAN-Routing-System):** A Cisco Packet Tracer-based network simulation demonstrating VLAN configuration, router-on-a-stick inter-VLAN routing, and automated DHCP setup across multiple switches.*
 - ***[HydroSpatial](http://hydrospatial.s3-website.ap-south-1.amazonaws.com/):** An AI-powered groundwater information system built using React, Django, and Gemini API, deployed fully on AWS using CodePipeline, CodeBuild, S3, and EC2.*
@@ -68,6 +68,7 @@
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     <img height="50" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
     <img height="50" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"/>
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
