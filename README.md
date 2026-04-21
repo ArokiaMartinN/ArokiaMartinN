@@ -56,8 +56,9 @@
     <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
     <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
   </span>
 </p>
 
