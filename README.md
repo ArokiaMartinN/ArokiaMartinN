@@ -33,15 +33,6 @@
   <img height="120" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
 </p>
 
-#### *Cisco Certification Badges:*
-<p align="left">
-  <img height="120" src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"/>
-  <img height="120" src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"/>
-  <img height="120" src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
-  <img height="120" src="https://images.credly.com/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png"/>
-  <img height="120" src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
-</p>
-
 #### *What I'm Currently Exploring!*
 
  - *Currently learning AWS Cloud, AI, Networking, Linux Systems and MERN Stack & FASTAPI.*
