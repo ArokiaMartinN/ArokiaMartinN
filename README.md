@@ -4,7 +4,7 @@
 
 
 - *🎓 Undergrad in Computer Science and Business Systems (2023-2027) @ Chennai Institute of Technology* <br>   
-- *Cloud Development Intern @ Hyland*
+- *Cloud Development Intern @ Hyland!*
 - *📄 Here's Link to My [Resume'a](https://drive.google.com/file/d/1CUXNVRNoymG08F3YgexLzm9zt425JEcw/view?usp=drive_link)!*
 - *☁️ 2X AWS Certified:*
     - *[AWS Certified Solutions Architect - Associate](https://drive.google.com/file/d/1v3D1rSDBZlXn77xMnO_HdcJFCTAThE-j/view?usp=sharing)!*
