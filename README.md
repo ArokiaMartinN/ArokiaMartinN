@@ -27,24 +27,6 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-1411%20(3★)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/arokiamartinn)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1059%20(Newbie)-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ArokiaMartinN)
 
-#### *AWS Certification Badges:*
-<p align="left">
-  <img height="120" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
-  <img height="120" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
-</p>
-
-#### *What I'm Currently Exploring!*
-
- - *Currently learning AWS Cloud, AI, Networking, Linux Systems and MERN Stack & FASTAPI.*
-- *Building projects like **Inter-VLAN Routing System**, **HydroSpatial**, **Walmart SuperStore**.*
-- *Continuously learning and applying real-world cloud architecture principles to build production-ready systems.*
-  
-#### *Projects:*
-
-- ***[Inter-VLAN Routing System](https://github.com/ArokiaMartinN/Inter-VLAN-Routing-System):** A Cisco Packet Tracer-based network simulation demonstrating VLAN configuration, router-on-a-stick inter-VLAN routing, and automated DHCP setup across multiple switches.*
-- ***[HydroSpatial](http://hydrospatial.s3-website.ap-south-1.amazonaws.com/):** An AI-powered groundwater information system built using React, Django, and Gemini API, deployed fully on AWS using CodePipeline, CodeBuild, S3, and EC2.*
-- ***[Walmart SuperStore](https://github.com/ArokiaMartinN/Walmart-SuperStore):** A MERN Stack analytics dashboard visualizing Walmart sales performance using MongoDB, Express.js, React, and Node.js with interactive charts and clean UI.*
-
 #### *I code in*
 <p align="left">
   <span style="white-space: nowrap;">
