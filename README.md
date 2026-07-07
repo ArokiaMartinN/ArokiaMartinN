@@ -12,7 +12,7 @@
 - *[TN-Skills State Level Cloud Computing - Top 7](https://www.linkedin.com/posts/arokia-martin-n-548692290_tnskills2025-indiaskills-cloudcomputing-activity-7404518214501642241-BLEW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEaUcYgBNa8ZVtUKFojbxjJyIb_bm-uPlRM)!*
 - *Ex - SDE Intern: Agentic AI @ Ai Work.*
 - *Ex - Cloud Network Engineer Intern @ Symbiotic Infotech Pvt. Ltd.*
-- *IEEE ICDSBS 2025, ICECI 2026 Published Author: [Article 1](https://ieeexplore.ieee.org/document/11031693) , [Article 2](https://ieeexplore.ieee.org/document/11031693)*
+- *IEEE ICDSBS 2025, ICECI 2026 Published Author: [Article 1](https://ieeexplore.ieee.org/document/11031693) , [Article 2](https://ieeexplore.ieee.org/document/11031693)!*
 - *Interned & Published an Article @ Center for Artificial Intelligence and Resesarch (CAIR), Chennai Institute of Technology.*
 - *2X National Level Hackathon Finalist! (IIT Delhi Handloom Hackathon, All India Technical Developers Hackathon).*
 - *4X NPTEL ELITE: NPTEL ELITE + SILVER - Ethical Hacking, NPTEL ELITE - Cloud Computing, DBMS, Data Analytics with Python!*
